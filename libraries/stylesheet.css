@@ -1,0 +1,271 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    float: left;
+}
+
+main {
+    width: 100%;
+    float: left;
+}
+
+footer{
+    width: 100%;
+    float: left;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+  
+}
+nav {
+    font-family: 'Anton', sans-serif;
+    padding-left: 25%;
+    letter-spacing: 3px;
+}
+
+nav li {
+    float: left;
+    width: 15%;
+    text-align: center;
+    list-style: none;
+    padding: 15px 0px 0px 0px;
+}
+
+
+
+
+nav li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+
+.ind-top{
+    width: 100%;
+    background-color: #000000;
+    height: 50px;
+}
+
+.ind-logo {
+    position: absolute;
+    width: 25%;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+    z-index: 2;
+}
+
+.ind-logo img{
+    max-width: 100%;
+}
+
+.ind-slide {
+    float: left;
+    width: 100%;
+    z-index: 1;
+}
+.ind-slide img {
+    width: 100%;
+}
+.ind-slide picture {
+    width: 100%;
+}
+
+.ind-anuncio {
+    float: left;
+    margin: 20px 2.5% 20px 2.5%;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.ind-anuncio-tittle {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+    background: black;
+    font-weight: bold;
+    float: left;
+}
+.ind-anuncio-texto {
+    float: left;
+    padding: 10px 0px;
+    color: black;
+    text-align: center;
+    line-height: 25px;
+}
+/* tablet */
+@media only screen and (min-width: 481px) and (max-width:980px){
+
+    nav {
+        height: 80px; 
+        padding-left: 0%;  
+    }
+
+
+    nav li{
+        width: 100%;
+        display: none;
+        float: left;
+        position: relative;
+        top: 90px;
+        background-color: #008D6B;
+        height: 50px;
+        padding: 10px;
+        text-align: center;
+        border-bottom: 1px #ffff solid;
+        cursor: pointer;
+        
+    }
+    nav li a{
+        margin: 0px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    
+    }
+    
+    .ind-btn {
+        position: absolute;
+        width: 65%;
+        top: 3px;
+        right: 0;
+        cursor: pointer;
+        padding: right;
+        text-align: right;
+        margin-top: 3px;
+    }
+
+    .ind-logo {
+        position: absolute;
+        width: 25%;
+        left: 0px;
+        top: 0px;
+        text-align: center;
+    }
+    .ind-slide {
+        height: 200px;
+    }
+    .ind-anuncio {
+        width: 44%;
+    }
+    .ind-slide img {
+        max-height: 200px;
+    }
+    .ind-anuncio-image img {
+        width: 100%;
+    }
+
+}
+
+/* Smartfone */
+@media only screen and (max-width:480px){
+
+    nav {
+        height: 50px; 
+        padding-left: 0%; 
+    }
+    nav li{
+        width: 100%;
+        display: none;
+        float: left;
+        position: relative;
+        top: 90px;
+        background-color: #008D6B;
+        height: 50px;
+        padding: 10px;
+        text-align: center;
+        border-bottom: 1px #ffff solid;
+        cursor: pointer;
+
+    }
+    nav li a{
+        margin: 0px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    
+    }
+    .ind-btn {
+        position: absolute;
+        width: 65%;
+        top: 3px;
+        right: 0;
+        cursor: pointer;
+        padding: right;
+        text-align: right;
+        margin-top: 3px;
+    }
+    .ind-logo {
+        position: absolute;
+        width: 25%;
+        left: 0px;
+        top: 0px;
+        text-align: center;
+    }
+    .ind-slide {
+        height: 200px;
+    }
+    .ind-slide img {
+        max-height: 200px;
+    }
+    .ind-anuncio {
+        width: 95%;
+    }
+    .ind-anuncio-image img {
+        width: 100%;
+    }
+
+
+}
+@media only screen and (min-width:981px){
+    .ind-btn {
+        display: none;
+    }
+    .ind-slide {
+        height: 450px;
+    }
+    .ind-slide img {
+        max-height: 450px;
+        min-height: 450px;
+    }
+
+    nav li:hover {
+        border-top: 5px teal solid;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+    nav li a:hover {
+        color: teal;
+    }
+    
+    
+    nav li:last-child a{
+        color: teal;
+    }
+    .ind-anuncio {
+        width: 20%;
+
+    }
+   
+    .ind-anuncio-image{
+        width: 100%;
+        float: left;
+        
+    }
+    .ind-anuncio-image img {
+        width: 100%;
+    }
+   
+}
