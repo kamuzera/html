@@ -4,7 +4,7 @@
         
 
         <title>KGX VEICULOS</title>
-        <?php require_once ("../libraries/head.php");?>
+            <?php require_once ("../libraries/head.php");?>
 
             <meta name="description" content="A KGX Veiculos é uma empresa especializada em automoveis.">
             
@@ -49,7 +49,6 @@
 
 
 <main>
-
 <div class="ind-anuncio">
     <div class="ind-anuncio-tittle">Carro 1</div>
     <div class="ind-anuncio-image"><img src="../images/anuncios/an1.jpg" alt="Carro 1"></div>
@@ -90,21 +89,12 @@
     <div class="ind-anuncio-image"><img src="../images/anuncios/an3.jpg" alt="Carro 3"></div>
     <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
 </div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 4</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an4.jpg" alt="Carro 4"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 4</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an4.jpg" alt="Carro 4"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
-
 
 </main>
 
 <footer>
+
+ <?php require_once ("../libraries/footer.php")?>
 
 </footer>
 

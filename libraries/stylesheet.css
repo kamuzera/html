@@ -2,6 +2,7 @@
 body {
     margin: 0px;
     padding: 0px;
+    font-family: 'Anton', sans-serif;
 }
 
 header {
@@ -24,7 +25,6 @@ ul {
   
 }
 nav {
-    font-family: 'Anton', sans-serif;
     padding-left: 25%;
     letter-spacing: 3px;
 }
@@ -36,8 +36,6 @@ nav li {
     list-style: none;
     padding: 15px 0px 0px 0px;
 }
-
-
 
 
 nav li a {
@@ -164,6 +162,25 @@ nav li a {
     .ind-anuncio-image img {
         width: 100%;
     }
+    .footer {
+        width: 100%;
+        float: left;
+        background: teal;
+        padding: 20px 0px;
+        border-top: 20px solid rgb(0, 44, 44) 
+    }
+    .footertexto {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 20px;
+     
+    }
+    .footerimage {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
 
 }
 
@@ -226,6 +243,25 @@ nav li a {
     .ind-anuncio-image img {
         width: 100%;
     }
+    .footer {
+        width: 100%;
+        float: left;
+        background: teal;
+        padding: 20px 0px;
+        border-top: 20px solid rgb(0, 44, 44) 
+    }
+    .footertexto {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 20px;
+     
+    }
+    .footerimage {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
 
 
 }
@@ -267,5 +303,23 @@ nav li a {
     .ind-anuncio-image img {
         width: 100%;
     }
-   
+    .footer {
+        width: 100%;
+        float: left;
+        background: teal;
+        padding: 20px 0px;
+        border-top: 20px solid rgb(0, 44, 44) 
+    }
+    .footertexto {
+        width: 60%;
+        float: left;
+        margin-left: 5%;
+        line-height: 30px;
+    }
+    .footerimage {
+        float: left;
+        width: 30%;
+        margin-right: 5%;
+        text-align: right;
+    }
 }

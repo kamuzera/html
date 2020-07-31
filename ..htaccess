@@ -1,0 +1,5 @@
+RewriteCond %{HTTP_HOST} ^localhost$
+RewriteCond $1 !^localhost_path/index\.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (^[^.]*|\.(php|html?|feed|pdf|raw))$ localhost_path/index.php [NC,L]
