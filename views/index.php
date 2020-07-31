@@ -49,46 +49,46 @@
 
 
 <main>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 1</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an1.jpg" alt="Carro 1"></div>
-    <div class="ind-anuncio-texto"><b>ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 2</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an2.jpg" alt="Carro 2"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO! AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 3</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an3.jpg" alt="Carro 3"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 4</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an4.jpg" alt="Carro 4"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 4</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an4.jpg" alt="Carro 4"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 1</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an1.jpg" alt="Carro 1"></div>
-    <div class="ind-anuncio-texto"><b>ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 2</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an2.jpg" alt="Carro 2"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO! AGORA MESMO!</div>
-</div>
-<div class="ind-anuncio">
-    <div class="ind-anuncio-tittle">Carro 3</div>
-    <div class="ind-anuncio-image"><img src="../images/anuncios/an3.jpg" alt="Carro 3"></div>
-    <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
-</div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 1</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an1.jpg" alt="Carro 1"></div>
+        <div class="ind-anuncio-texto"><b>ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
+    </div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 2</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an2.jpg" alt="Carro 2"></div>
+        <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO! AGORA MESMO!</div>
+    </div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 3</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an3.jpg" alt="Carro 3"></div>
+        <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
+    </div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 4</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an4.jpg" alt="Carro 4"></div>
+        <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
+    </div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 4</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an4.jpg" alt="Carro 4"></div>
+        <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
+    </div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 1</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an1.jpg" alt="Carro 1"></div>
+        <div class="ind-anuncio-texto"><b>ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
+    </div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 2</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an2.jpg" alt="Carro 2"></div>
+        <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO! AGORA MESMO!</div>
+    </div>
+    <div class="ind-anuncio">
+        <div class="ind-anuncio-tittle">Carro 3</div>
+        <div class="ind-anuncio-image"><img src="../images/anuncios/an3.jpg" alt="Carro 3"></div>
+        <div class="ind-anuncio-texto">ATENCÃO</b> FINANCIE 100% SEU VEICULOS CONOSCO AGORA MESMO!</div>
+    </div>
 
 </main>
 

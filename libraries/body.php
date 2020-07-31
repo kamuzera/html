@@ -1,11 +1,11 @@
 <div class="ind-top">
     <nav>
         <ul>
-            <li><a href="index">Home</a></li>
-            <li><a href="sobrenos">Sobre nós</a></li>
-            <li><a href="anuncios">Anuncios</a></li>
-            <li><a href="contato">Contato</a></li>
-            <li><a href="cadastre-se">Cadastre-se</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="sobrenos.php">Sobre nós</a></li>
+            <li><a href="anuncios.php">Anuncios</a></li>
+            <li><a href="contato.php">Contato</a></li>
+            <li><a href="cadastre-se.php">Cadastre-se</a></li>
         </ul>
     </nav>
     </div>
