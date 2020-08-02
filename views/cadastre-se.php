@@ -36,7 +36,7 @@
     <div class="texto-responsivo">
     Cadastre-se para obter maiores informações<br>
 
-        <form name="FormularioCadastro" id="FormularioCadastro" method="post" action="../controllers/controller_cadastro.php">
+        <form name="FormularioCadastro" id="FormularioCadastro" method="post" action="../controllers/ControllerInsercao.php">
             <div class="formulario">
                 <label for="nome">Nome:* </label><br>
                 <input type="text" id="nome" name="nome" required>
@@ -50,8 +50,8 @@
                 <input type="tel" id="telefone" name="telefone">
             </div>
             <div class="formulario">
-                <label for="TelefoneWhats">Telefone (WhatsApp): </label><br>
-                <input type="tel" id="telefonewhats" name="telefonewhats" required>
+                <label for="TelefoneWp">Telefone (WhatsApp): </label><br>
+                <input type="tel" id="telefonewp" name="telefonewp" required>
             </div>
             <div class="formulario">
                 <label for="Idade">Idade: </label><br>
@@ -70,8 +70,8 @@
                 <input type="text" id="salario" name="salario">
             </div>
             <div class="formulario">
-                <label for="Data Nascimento">Data Nascimento: </label><br>
-                <input type="text" id="dataNascimento" name="dataNascimento">
+                <label for="DataNascimento">Data Nascimento: </label><br>
+                <input type="text" id="datanascimento" name="datanascimento">
             </div>
             <div class="formulario">
                 <input type="submit" id="botao" name="botao" value="Cadastrar">

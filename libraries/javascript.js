@@ -3,7 +3,7 @@ $(document) .ready(function(){
     $('#idade').mask("000")
     $('#cpf').mask("000.000.000-00")
     $('#salario').mask("999.999.990,00", {reverse:true})
-    $('#dataNascimento').mask("00/00/0000")
+    $('#datanascimento').mask("00/00/0000")
 
     $('#cpf').mask("000.000.000-00")
     $("#rg").mask("999.999.999-W", {
@@ -16,12 +16,12 @@ $(document) .ready(function(){
 
     })
      
-    $('#telefonewhats').mask("(00) 0000-00009")
-    $('#telefonewhats').blur(function(event){
+    $('#telefonewp').mask("(00) 0000-00009")
+    $('#telefonewp').blur(function(event){
         if ($(this).val().length == 15){
-            $('#telefonewhats').mask("(00) 00000-0009")
+            $('#telefonewp').mask("(00) 00000-0009")
         } else{
-            $('#telefonewhats').mask("(00) 0000-00009") 
+            $('#telefonewp').mask("(00) 0000-00009") 
         }
     })
     
